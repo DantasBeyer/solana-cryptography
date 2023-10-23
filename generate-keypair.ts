@@ -13,6 +13,6 @@ dotenv.config();
 
 const keypair = getKeypairFromEnvironment("SECRET_KEY");
 
-console.log('🆗 Finished! We´ve loaded our secrete key securely, using an env file!');
+console.log('🆗 Finished! ');
 
 
