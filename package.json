@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "@solana/web3.js": "^1.87.2"
+    "@digitak/esrun": "^3.2.25",
+    "@solana-developers/node-helpers": "^1.0.4",
+    "@solana/web3.js": "^1.87.2",
+    "dotenv-extended": "^2.9.0",
+    "typescript": "^5.2.2"
   }
 }
